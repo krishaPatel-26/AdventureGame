@@ -1,0 +1,14 @@
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/obj/Debug/net9.0/AdventureGameFixed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/obj/Debug/net9.0/AdventureGameFixed.AssemblyInfoInputs.cache
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/obj/Debug/net9.0/AdventureGameFixed.AssemblyInfo.cs
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/obj/Debug/net9.0/AdventureGameFixed.csproj.CoreCompileInputs.cache
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/bin/Debug/net9.0/AdventureGameFixed
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/bin/Debug/net9.0/AdventureGameFixed.deps.json
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/bin/Debug/net9.0/AdventureGameFixed.runtimeconfig.json
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/bin/Debug/net9.0/AdventureGameFixed.dll
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/bin/Debug/net9.0/AdventureGameFixed.pdb
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/obj/Debug/net9.0/AdventureGameFixed.dll
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/obj/Debug/net9.0/refint/AdventureGameFixed.dll
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/obj/Debug/net9.0/AdventureGameFixed.pdb
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/obj/Debug/net9.0/AdventureGameFixed.genruntimeconfig.cache
+/Users/krishapatel/Downloads/AdventureGameTogether/AdventureGameFixed/obj/Debug/net9.0/ref/AdventureGameFixed.dll
