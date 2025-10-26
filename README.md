@@ -24,4 +24,4 @@ Find three magical items:
 ## 💻 Technology
 - C# Console Application
 - Color-coded
-- Built as a Grade 11 Java project
+- Built as a Grade 11 C# project
