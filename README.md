@@ -1,24 +1,17 @@
-# 🧙‍♀️ Meet The Witch - Text Adventure Game
+# 🧙‍♀️ Meet The Witch - Adventure Game
 
-A C# console-based adventure game where you play as a witch trying to complete your outfit by finding magical items while navigating through dangerous locations.
-
-## 🗺️ Game Features
-- 7 Unique Locations: Haunted house, jungle, cave, tree house, cursed lake, and more
-- Item Collection & Combination: Find and use items to unlock new paths
-- Inventory Management: Track collected items and their descriptions
-- Dynamic Environment: Rooms change based on your actions and inventory
-- Atmospheric Text Display: Typewriter effect for immersive storytelling
+A text-based adventure game where you play as a witch collecting items to complete your outfit.
 
 ## 🎯 Objective
-Your goal is to find three essential items:
+Find three magical items:
 - 🔴 Cape
-- 🎩 Hat
+- 🎩 Hat  
 - 🧹 Broomstick
 
 ## 🕹️ Controls
-- Movement: `N`, `S`, `E`, `W`
-- Actions: `T [item]` (Take), `D [item]` (Drop), `C [item1] [item2]` (Combine)
-- Other: `I` (Inventory), `L` (Look), `Q` (Quit)
+- **Movement**: `N`, `S`, `E`, `W`
+- **Actions**: `T [item]` (Take), `D [item]` (Drop), `C [item1] [item2]` (Combine)
+- **Other**: `I` (Inventory), `L` (Look), `Q` (Quit)
 
 ## 🗺️ Locations
 - Haunted House (Start)
@@ -27,3 +20,8 @@ Your goal is to find three essential items:
 - Tree House
 - Cursed Lake
 - Nitya's House
+
+## 💻 Technology
+- C# Console Application
+- Color-coded
+- Built as a Grade 11 Java project
